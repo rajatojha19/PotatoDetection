@@ -31,7 +31,7 @@ The dataset used for training and evaluation is sourced from Kaggle: [PlantVilla
 ## 🚀 Installation & Usage
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/rajatojha19/PotatoLeafDiseaseClassification.git](https://github.com/rajatojha19/PotatoDetection.git)
+   git clone https://github.com/rajatojha19/PotatoDetection.git
    cd PotatoLeafDiseaseClassification
    ```
 Made with ❤️ for Agriculture 🌱
