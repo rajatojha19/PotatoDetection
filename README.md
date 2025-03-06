@@ -1,7 +1,7 @@
 # Potato Leaf Disease Prediction
 ![Vol13No2-3_Ear_San_fig1](https://user-images.githubusercontent.com/67580321/171865245-b8f4a8c5-978b-4284-900b-3b7dd0b638a1.jpg)
 
-# 🥔 Potato Leaf Disease Classification
+# 🥔 Potato Leaf Disease Prediction
 
 ## 🚀 Project Overview
 Potato farmers suffer significant financial losses due to diseases affecting their crops. The most common are **Early Blight** (caused by fungus) and **Late Blight** (caused by microorganisms). Proper early detection and treatment can prevent severe economic damage.
