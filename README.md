@@ -24,8 +24,8 @@ The dataset used for training and evaluation is sourced from Kaggle: [PlantVilla
 ## 📂 Project Structure
 ```
 📦 PotatoLeafDiseaseClassification
-├── dataset.py         # Data preprocessing
-├── 📜 README.md      # Project documentation
+├── Potato_disease_detection.ipynb       # Data preprocessing
+├── 📜 README.md                        # Project documentation
 ```
 
 ## 🚀 Installation & Usage
