@@ -1,12 +1,39 @@
 # PotatoDetection
 ![Vol13No2-3_Ear_San_fig1](https://user-images.githubusercontent.com/67580321/171865245-b8f4a8c5-978b-4284-900b-3b7dd0b638a1.jpg)
 
-## Problem Statement 
-Farmers who grow potatoes are often plagued by serious financial losses each year, which lead to several diseases that affect potato plants. The diseases Early Blight and Late Blight are the most common diseases. Early blight is caused by fungus, and late blight is caused by specific micro-organisms. If farmers detect this disease early and apply appropriate treatment, it can save a lot of crop production and prevent economic loss. There are different treatments for early blight and late blight, so it's important to be accurate in identifying the type of disease present in your potato plant. Behind the scenes, we will use Convolutional Neural Network - Deep Learning to diagnose plant diseases.
+# 🥔 Potato Leaf Disease Classification
 
-## Project Description
-Development of a deep learning project in the field of agriculture We will create a simple image classification model that will categorize Potato Leaf Disease using a simple convolutional neural network architecture. We'll start by collecting the data, and then we'll build models to explain it.
+## 🚀 Project Overview
+Potato farmers suffer significant financial losses due to diseases affecting their crops. The most common are **Early Blight** (caused by fungus) and **Late Blight** (caused by microorganisms). Proper early detection and treatment can prevent severe economic damage.
 
-## Data Collection
-Using data that I got from Kaggle.
-Dataset Link: https://www.kaggle.com/abdallahalidev/plantvillage-dataset
+This project leverages **Deep Learning (CNNs)** to automatically classify potato leaf diseases using image data, helping farmers take timely action.
+
+## 📌 Problem Statement
+Early identification of **Early Blight** and **Late Blight** in potato leaves is crucial for applying the correct treatment and preventing widespread crop damage. This project uses **Convolutional Neural Networks (CNNs)** to diagnose plant diseases accurately.
+
+## 🛠️ Tech Stack
+- **Python**
+- **TensorFlow / Keras**
+- **OpenCV**
+- **NumPy & Pandas**
+- **Matplotlib & Seaborn**
+
+## 📊 Dataset
+The dataset used for training and evaluation is sourced from Kaggle: [PlantVillage Dataset](https://www.kaggle.com/abdallahalidev/plantvillage-dataset).
+
+## 📂 Project Structure
+```
+📦 PotatoLeafDiseaseClassification
+├── dataset.py         # Data preprocessing
+├── 📜 README.md      # Project documentation
+```
+
+## 🚀 Installation & Usage
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/PotatoLeafDiseaseClassification.git
+   cd PotatoLeafDiseaseClassification
+   ```
+Made with ❤️ for Agriculture 🌱
+
+
